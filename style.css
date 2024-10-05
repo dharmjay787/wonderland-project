@@ -1,0 +1,46 @@
+body {
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04a4c9a6-9f56-420b-b3fb-52f459c937ca/dfjol6c-32b15721-66bd-46e1-b8ab-95c25a1e1dc3.png/v1/fill/w_1280,h_732,q_80,strp/winter_wonderland_by_poptheai_dfjol6c-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA0YTRjOWE2LTlmNTYtNDIwYi1iM2ZiLTUyZjQ1OWM5MzdjYVwvZGZqb2w2Yy0zMmIxNTcyMS02NmJkLTQ2ZTEtYjhhYi05NWMyNWExZTFkYzMucG5nIiwiaGVpZ2h0IjoiPD03MzIiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC8wNGE0YzlhNi05ZjU2LTQyMGItYjNmYi01MmY0NTljOTM3Y2FcL3BvcHRoZWFpLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.J9HJW4pmMnYW5BzssmvHJa6_edm7KIulwODmmcQx1MM);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.h1 {
+    text-align: center;
+    color: blue;
+    font-family: cursive;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04a4c9a6-9f56-420b-b3fb-52f459c937ca/dfjol6c-32b15721-66bd-46e1-b8ab-95c25a1e1dc3.png/v1/fill/w_1280,h_732,q_80,strp/winter_wonderland_by_poptheai_dfjol6c-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA0YTRjOWE2LTlmNTYtNDIwYi1iM2ZiLTUyZjQ1OWM5MzdjYVwvZGZqb2w2Yy0zMmIxNTcyMS02NmJkLTQ2ZTEtYjhhYi05NWMyNWExZTFkYzMucG5nIiwiaGVpZ2h0IjoiPD03MzIiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC8wNGE0YzlhNi05ZjU2LTQyMGItYjNmYi01MmY0NTljOTM3Y2FcL3BvcHRoZWFpLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.J9HJW4pmMnYW5BzssmvHJa6_edm7KIulwODmmcQx1MM);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+    margin: 50px;
+}
+.p1{
+    background-color: #fefee0;
+    box-shadow: 10px 10px 10px #d7ca2b;
+    padding: 30px;
+    margin: 30px;
+}
+img{
+    border: 15px solid white;
+    width: 500px;
+}
+.h4{
+    text-align: center;
+    color: blue;
+    font-family: cursive;
+}
+table{
+    border-collapse: collapse;
+    width: 500px;
+    box-shadow: 20px 20px blue;
+}
+.h5{
+    background-color: aqua;
+}
+td{
+    background-color: lightblue;
+}
+marquee{
+    background-color: red;
+    color:white
+}
